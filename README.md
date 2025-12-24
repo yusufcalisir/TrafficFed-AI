@@ -138,7 +138,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 **Developed by Yusuf Calisir**
 *Researching the intersection of Privacy-Preserving AI and Network Security.*
-
-```
-
-
