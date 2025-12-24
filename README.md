@@ -70,7 +70,7 @@ The model classifies traffic into four distinct categories:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/TrafficFed-AI.git](https://github.com/yusufcalisir/TrafficFed-AI.git)
+git clone https://github.com/yusufcalisir/TrafficFed-AI.git
 cd TrafficFed-AI
 
 ```
@@ -140,4 +140,5 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 *Researching the intersection of Privacy-Preserving AI and Network Security.*
 
 ```
+
 
