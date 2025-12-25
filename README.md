@@ -6,7 +6,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-**TrafficFed-AI** is a simulation framework demonstrating how **Federated Learning (FL)** can be used to classify encrypted network traffic (e.g., Streaming vs. Gaming) without violating user privacy.
+**TrafficFed-AI** is a simulation framework demonstrating how **Federated Learning (FL)** can be used to classify encrypted network traffic (e.g., Streaming vs. Gaming) without violating user privacy. 
 
 Unlike traditional Deep Packet Inspection (DPI) methods that inspect packet content, this project uses **packet metadata** (size, timing, bitrate) to train a global model collaboratively across multiple clients, keeping raw data local and secure.
 
@@ -138,3 +138,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 **Developed by Yusuf Calisir**
 *Researching the intersection of Privacy-Preserving AI and Network Security.*
+
